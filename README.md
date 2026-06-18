@@ -56,7 +56,7 @@ Create a ceiling opening using the provided guide pattern.
 
 Route the network and power cables through the cable hole.
 
-![Step1](images/step1.png)
+![Step1](image.png)
 
 ---
 
