@@ -25,7 +25,7 @@ This repository contains an installation guide created as part of my Technical W
 
 This guide explains how to install the DA-FM4700 ceiling mounting bracket for the camera system.
 
-![DA-FM4700](image.png)
+![DA-FM4700](image1.png)
 
 ### Compatible Camera
 
@@ -56,7 +56,7 @@ Create a ceiling opening using the provided guide pattern.
 
 Route the network and power cables through the cable hole.
 
-![Step1](image.png)
+![Step1](image2.png)
 
 ---
 
@@ -68,7 +68,7 @@ Before installation:
 2. Match the alignment guides.
 3. Fasten using the supplied screws.
 
-![Step2](images/step2.png)
+![Step2](image3.png)
 
 ---
 
@@ -83,7 +83,7 @@ Push the camera body into the bracket until flush mounted.
 
 If required by the installation environment, connect a safety cable using the provided hook and screw fastener.
 
-![Step3](images/step3.png)
+![Step3](image4.png)
 
 ---
 
@@ -94,7 +94,7 @@ After flush mounting:
 1. Align the product with the logo direction.
 2. Tighten the three clamp screws clockwise.
 
-![Step4](images/step4.png)
+![Step4](image5.png)
 
 ---
 
@@ -103,7 +103,7 @@ After flush mounting:
 1. Attach the top cover to the bottom cover.
 2. Rotate clockwise until fully secured.
 
-![Step5](images/step5.png)
+![Step5](image6.png)
 
 ---
 
