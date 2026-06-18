@@ -2,21 +2,21 @@
 
 ## About This Project
 
-This repository contains an installation guide created as part of my Technical Writing work.
+This repository contains a camera mount installation guide that I created while working at IDIS.
 
-### My Role
+The guide explains the installation process using both text and images to help users understand the procedure more easily.
 
-- Technical documentation authoring
-- Content structuring
-- Installation workflow design
-- Visual documentation layout
-- English documentation editing
+## My Role
+
+- Created installation guide content
+- Edited layout and images
+- Reviewed English documentation
+- Worked with developers to verify technical information
 
 ### Tools
 
 - Adobe InDesign
 - Adobe Illustrator
-- Adobe Photoshop
 - GitHub Markdown
 
 # DA-FM4700 Ceiling Mount Bracket Installation Guide
