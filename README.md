@@ -25,6 +25,8 @@ This repository contains an installation guide created as part of my Technical W
 
 This guide explains how to install the DA-FM4700 ceiling mounting bracket for the camera system.
 
+![DA-FM4700](image.png)
+
 ### Compatible Camera
 
 * DC-S4561WRA
