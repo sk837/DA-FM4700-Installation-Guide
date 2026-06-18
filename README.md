@@ -1,26 +1,5 @@
 # DA-FM4700 Installation Guide
 
-## About This Project
-
-This repository contains a camera mount installation guide that I created while working at IDIS.
-
-The guide explains the installation process using both text and images to help users understand the procedure more easily.
-
-## My Role
-
-- Created installation guide content
-- Edited layout and images
-- Reviewed English documentation
-- Worked with developers to verify technical information
-
-### Tools
-
-- Adobe InDesign
-- Adobe Illustrator
-- GitHub Markdown
-
-# DA-FM4700 Ceiling Mount Bracket Installation Guide
-
 ## Overview
 
 This guide explains how to install the DA-FM4700 ceiling mounting bracket for the camera system.
@@ -121,3 +100,24 @@ After flush mounting:
 ## Version
 
 Version 1.0
+
+
+
+## About This Project
+
+This repository contains a camera mount installation guide that I created while working at IDIS.
+
+The guide explains the installation process using both text and images to help users understand the procedure more easily.
+
+## My Role
+
+- Created installation guide content
+- Edited layout and images
+- Reviewed English documentation
+- Worked with developers to verify technical information
+
+### Tools
+
+- Adobe InDesign
+- Adobe Illustrator
+- GitHub Markdown
